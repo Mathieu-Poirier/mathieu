@@ -22,9 +22,17 @@ footer {
 }
 
 body {
-    padding-bottom: 240px; /* or match your footer height (e.g., 80px–120px) */
+    padding-bottom: 240px; /* roughly matches footer height */
 }
 
+@media (max-width: 600px) {
+    footer {
+        position: static;
+    }
+    body {
+        padding-bottom: 0;
+    }
+}
 
 
 .title {
