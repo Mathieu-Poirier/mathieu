@@ -21,11 +21,10 @@ footer {
     width: 100%;
 }
 
-@media (max-width: 600px) {
-    footer {
-        position: static;
-    }
+body {
+    padding-bottom: 240px; /* or match your footer height (e.g., 80px–120px) */
 }
+
 
 
 .title {
