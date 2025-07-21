@@ -75,6 +75,7 @@ footer {
     margin-top: 48px;
     text-align: left; /* <-- Add this */
     padding-left: 24px;
+    padding-bottom: 240px;
 }
 
 .home_link {
@@ -107,5 +108,7 @@ body {
 
 .document_image {
     width: 50%;
+    height: auto;
     margin: auto;
+    padding: auto;
 }
