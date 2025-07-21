@@ -104,3 +104,10 @@ body {
     height: 100vh;
     margin: 0;
 }
+
+.document_image {
+    width: 50%;
+    margin: auto;
+    text-align: left; /* <-- Add this */
+    padding-left: 24px;
+}
