@@ -18,7 +18,7 @@ mathieu/
 ├── index.html              # Main homepage
 ├── personal-website.html   # Introduction/About page
 ├── styles.css             # Main stylesheet
-├── script.js              # Empty (no JavaScript used)
+├── ... Any new articles
 └── README.md              # This documentation
 ```
 
@@ -60,11 +60,6 @@ Simply upload all files to any web hosting service:
 - Personal introduction and title
 - Project/Articles section
 - Contact information in footer
-
-### Introduction Page (`personal-website.html`)
-- Detailed personal introduction
-- Blog/knowledge base description
-- Topics covered (programming, OS, ML, etc.)
 
 ## 🎯 Technical Details
 
